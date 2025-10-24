@@ -1,2 +1,2 @@
-# authentication-
-a simple authentication node js project
+# authentication
+A simple Node.js and Express-based authentication system
